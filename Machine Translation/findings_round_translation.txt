@@ -1,0 +1,58 @@
+Machine Translation Error Analysis
+
+Score 3 – Correct Translations:
+These translations are fluent and semantically accurate with minimal or no issues.
+Examples:
+- Translation: SOFIA
+  Comment: 
+
+- Translation: She was in a lot of pain, a lot of crying.
+  Comment: 
+
+- Translation: I somehow wanted to compensate for his absence,
+  Comment: 
+
+- Translation: So I took the liberty of buying her everything she wants me to give her,
+  Comment: 
+
+- Translation: But over the years, he got on my head.
+  Comment: 
+
+
+Score 2 – Minor Mistakes:
+These translations include small errors such as redundant words or slight lexical mismatches.
+Examples:
+- Translation: He promised he'd say he'd look for her, but he just disappeared.
+  Comment: without 'he'd say'
+
+- Translation: No, they're not.
+  Comment: missed 'mine' at the end
+
+- Translation: He's got his mother wrapped around his little finger.
+  Comment: Spinning' instead of wrapped
+
+- Translation: Bits for 200 bucks.
+  Comment: Rags' instead of 'Bits'
+
+- Translation: I hate it when Velina makes scenes at my store.
+  Comment: the stores' instead of 'my store'
+
+
+Score 1 – Incorrect Translations:
+These include serious errors like misinterpretation or omission.
+Examples:
+- Translation: That's not happening.
+  Comment: wrong verb tense used
+
+- Translation: And if I were in one place, I'd have had a long time before, but for now, I don't want to interfere.
+  Comment: Incorrect sentence meaning
+
+- Translation: And that's assuming she's working as a saleswoman and two of my money is enough to pay for her nayma.
+  Comment: Incorrect translate of rent and two
+
+- Translation: That's not my touch, that's mine.
+  Comment: Incorrect meaning
+
+- Translation: Please, Velina, I don't want to hear about you, mom.
+  Comment: Please, Velina, don't be stubborn, mom.
+
